@@ -1,6 +1,8 @@
 body {
     direction: rtl;
     font-family: Vazir;
+    background-color: #0dcaf0;
+    color: #1a1e21;
 }
 
 @font-face {
