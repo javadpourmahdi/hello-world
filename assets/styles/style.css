@@ -1,0 +1,22 @@
+body {
+    direction: rtl;
+    font-family: Vazir;
+}
+
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./../fonts/vazir-font/Vazir-Regular.eot');
+    src: url('./../fonts/vazir-font/Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./../fonts/vazir-font/Vazir-Regular.woff2') format('woff2'),
+    url('./../fonts/vazir-font/Vazir-Regular.woff') format('woff'),
+    url('./../fonts/vazir-font/Vazir-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Yekan;
+    font-style: normal;
+    font-weight: normal;;
+    src: url("./../fonts/yekan-font/Yekan.woff");
+}
